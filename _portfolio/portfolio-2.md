@@ -1,6 +1,6 @@
 ---
 title: "Research"
-excerpt: "My research history 1<br/>"
+excerpt: "My research history "
 collection: portfolio
 ---
 
