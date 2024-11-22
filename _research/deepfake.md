@@ -2,7 +2,7 @@
 title: "Teaching experience 2"
 collection: research 
 type: "Workshop"
-permalink: /research/deepfaka
+permalink: /research/deepfake
 ---
 
 
