@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! This space is a reflection of my passions, pursuits, and aspirations. Here, I share insights into my research interests, driven by the goal of making a tangible impact in the real world.  
+Welcome to my personal website!🙌 This space is a reflection of my passions, pursuits, and aspirations. Here, I share insights into my research interests, driven by the goal of making a tangible impact in the real world.  
 
 This site also chronicles my personal development journey—exploring growth, discipline, and resilience—while offering a curated collection of reading lists that have shaped my perspective and knowledge.  
 
