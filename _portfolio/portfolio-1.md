@@ -4,11 +4,11 @@ excerpt: "My education history "
 collection: portfolio
 ---
 
-# Education
+
 
 ## Master of Science in Electrical and Computer Engineering  
 **University of Oklahoma, Norman, OK, USA**  
-**Expected: Dec 2024**  
+**Graduated: Dec 2024**  
 **Thesis:** *Enforcing Capsule Networks with Information Theory Concepts: Entropy Integrated Dynamic Routing Mechanism*  
 **Supervisor:** Assoc. Prof. Samuel Cheng  
 
