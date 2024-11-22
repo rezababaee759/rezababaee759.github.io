@@ -1,3 +1,8 @@
+---
+title: "Interships"
+excerpt: "My interships history 1<br/>"
+collection: portfolio
+---
 Internships
 ===
 Summer 2020 Medical AI Intern, I.K Hospital Complex, Tehran, IR
