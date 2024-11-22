@@ -1,10 +1,19 @@
-
 ---
-title: "DeepFake Detection"
-excerpt: "deepfake detection via capsule networks<br/><img src='/images/500x300.png'>"
-collection: research
-permalink: /research/deepfake
+title: "Teaching experience 2"
+collection: research 
+type: "Workshop"
+permalink: /research/deepfaka
 ---
 
- deepfake detection via capsule networks!
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
+
+
 
