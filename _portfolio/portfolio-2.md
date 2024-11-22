@@ -4,7 +4,7 @@ excerpt: "My research history "
 collection: portfolio
 ---
 
-# Research
+
 
 ## Graduate Research Assistant  
 **Image and Information Processing Lab, University of Oklahoma, Tulsa, OK**  
