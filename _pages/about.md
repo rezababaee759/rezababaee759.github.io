@@ -1,6 +1,7 @@
 permalink: /
 title: "“Discipline is the bridge between goals and accomplishment” - Jim Rohn"
 author_profile: true
+excerpt:"About me!"
 redirect_from: 
   - /about/
   - /about.html
