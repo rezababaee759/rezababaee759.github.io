@@ -1,12 +1,11 @@
-
 ---
 title: "Research"
 excerpt: "My research history 1<br/>"
 collection: portfolio
 ---
-
 Research
 ====
+
 2022 – Present Graduate Research Assistant, Image and Information Processing Lab, University of Oklahoma, Tulsa, OK
 ○ DeepFake Detection: Developed an enhanced routing mechanism for Capsule Networks, achieving 93% accuracy on the
 FaceForensics++ dataset
@@ -14,7 +13,7 @@ FaceForensics++ dataset
 CT scans
 ○ Grant Writing: Contributed to NIH proposal for a Multimodal LLM advisory system for diabetic patient care
 ○ Publications: published four peer-reviewed journal article and presented at 1 national conference
-----
+
 2018 – 2021 Research Assistant, BioMechanics Lab, K. N. Toosi University of Technology, Tehran, IR
 ○ Brain Cancer Prognosis: Developed an ML model with enhanced classification accuracy for predicting 5-year Glioblastoma
 survival rates
