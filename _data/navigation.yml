@@ -17,7 +17,7 @@ main:
     url: /reading/
     
   - title: "Diet/Excercise"
-    url: /diet_excercise/
+    url: /dietexcercise/
 
   - title: "CV"
     url: /files/CV.pdf
