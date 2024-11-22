@@ -57,12 +57,3 @@ More info about configuring Academic Pages can be found in [the guide](https://a
 
 
 
----
-
-### Explore
-- **Research Interests**: Discover how I’m working toward real-world impact through innovative ideas and collaborations.  
-- **Personal Development**: Follow my journey in self-improvement, including lessons learned and milestones achieved.  
-- **Reading Lists**: Gain inspiration from the books, articles, and resources that fuel my learning.  
-- **Diets & Fitness**: Learn from my experiences with diet plans and workouts, and join the journey toward a balanced, active life.
-
-Let’s connect, learn, and grow together!
