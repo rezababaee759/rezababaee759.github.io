@@ -1,8 +1,9 @@
 
 ---
-title: "Education"
-excerpt: "My education history 1<br/>"
+title: "Research"
+excerpt: "My research history 1<br/>"
 collection: portfolio
+---
 
 Research
 ====
