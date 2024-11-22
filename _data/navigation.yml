@@ -5,19 +5,18 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Research "
-    url: /research/
+  #- title: "Research "
+  #  url: /research/
     
   - title: "Publications"
     #url: /publications/
     url: https://scholar.google.com/citations?user=docWKHEAAAAJ&hl=en
 
-  - title: "Reading"
-    url: /cv/
-    url: /reading/
+  #- title: "Reading"
+  #  url: /reading/
     
-  - title: "Diet/Excercise"
-    url: /dietexcercise/
+  #- title: "Diet/Excercise"
+  #  url: /dietexcercise/
 
   - title: "CV"
     url: /files/CV.pdf
@@ -26,8 +25,8 @@ main:
   #- title: "Talks"
   #  url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
