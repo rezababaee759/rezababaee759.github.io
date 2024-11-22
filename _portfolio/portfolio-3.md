@@ -4,7 +4,7 @@ excerpt: "My internships history "
 collection: portfolio
 ---
 
-# Internships
+
 
 ## Medical AI Intern  
 **I.K. Hospital Complex, Tehran, IR**  
