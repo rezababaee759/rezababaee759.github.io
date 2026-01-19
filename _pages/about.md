@@ -11,21 +11,17 @@ welcome!
 
 A personal website
 ======
-In this page I will share my interests, varying from my academic research, also some life updates on how diets and excercise is going. I may share more on some other perspectives of life as well. So, yeah this will be my spot to share everything I think it could be useful to the world!
+Welcome to my corner of the web. I created this space to serve as a digital sketchbook of sorts, a place where I can share updates on my academic research alongside the more personal experiments in my life, like my attempts at staying active and eating well. My hope is that by sharing these different perspectives, whether technical or personal, something here might prove useful or encouraging to you
 
 Academic journey
 ------
-Starting from KNTU, oh I miss it so much with my lovely friends and the vibe!, and recently just got my M.S in Electrical and Computer Engineering, hurray! and yeah, continuing my journey to be a Ph.D., it's a bit scary but we'll see what happens.
+My journey began at KNTU—a place I still look back on with a lot of fondness for the friends and the vibrant atmosphere that shaped me academic journey. Recently, I reached a major milestone by completing my M.S. in Electrical and Computer Engineering. Now, I’m stepping into the next chapter: pursuing a Ph.D. It’s a path that feels equal parts daunting and exciting, but I’m looking forward to seeing where the research leads..
 
 Diet and more
 ------
-Where should I even start? but let me tell you something, keto really works. Shout out to my great friend Ehsan from Stockholm. 
+Where to even begin? If there is one thing I’ve learned recently, it’s that the keto lifestyle truly delivers results when approached with the right philosophy. A huge thanks to my good friend Ehsan in Stockholm for the initial inspiration. For me, the secret hasn't been in complex recipes, but in sticking to high-quality, single ingredients and, most importantly, radical consistency.
 
-**Oops!**
-
-These are only what I think, so don't take it personal!
-
-For more info
+Stay in Touch
 ------
-For more, follow me on instagram, or just email me so we may have a chat!
+I’m always open to meeting new people and hearing different perspectives. If you prefer a longer conversation, drop me an email. I look forward to hearing from you!
 
