@@ -18,6 +18,6 @@ collection: portfolio
 
 ## Engineering Intern  
 **Dynamics Lab, K. N. Toosi University of Technology, Tehran, IR**  
-**Summer 2018**  
+**Summer 2019**  
 
 - **Project:** Implemented an Arduino-based oscillation counter, enhancing experimental accuracy and validation.  
