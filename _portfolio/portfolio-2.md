@@ -19,7 +19,7 @@ collection: portfolio
 
 ## Research Assistant  
 **BioMechanics Lab, K. N. Toosi University of Technology, Tehran, IR**  
-**2018 – 2021**  
+**2019 – 2021**  
 
 - **Brain Cancer Prognosis:** Developed a machine learning model with enhanced classification accuracy for predicting 5-year Glioblastoma survival rates.  
 - **Clinical Collaboration:** Designed an ML chemotherapy risk assessment model using demographic and imaging patient data in collaboration with local hospitals.  
