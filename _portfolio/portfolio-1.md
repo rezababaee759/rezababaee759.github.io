@@ -9,7 +9,7 @@ collection: portfolio
 ## Master of Science in Electrical and Computer Engineering  
 **University of Oklahoma, Norman, OK, USA**  
 **Graduated: Dec 2024**  
-**Thesis:** *Enforcing Capsule Networks with Information Theory Concepts: Entropy Integrated Dynamic Routing Mechanism*  
+**Thesis:** *Entropy Integrated Dynamic Routing in Capsule Networks and Deepfake Detection Applications*  
 **Supervisor:** Assoc. Prof. Samuel Cheng  
 
 ### Key Coursework:
@@ -23,7 +23,7 @@ collection: portfolio
 ## Bachelor of Science in Mechanical Engineering  
 **K. N. Toosi University of Technology (KNTU), Tehran, IR**  
 **Graduated: Sep 2020**  
-**Thesis:** *Evaluating the Survival Rate Prediction of Brain Cancer Glioma by Radiomics Features of Non-Enhancing Tumor Segment Using Deep Learning*  
+**Thesis:** *Evaluating Glioma Survival Prediction Models Using Radiomics and Machine Learning*  
 **Supervisor:** Assoc. Prof. Madjid Soltani  
 
 ### Key Coursework:
