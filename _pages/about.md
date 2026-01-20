@@ -15,7 +15,7 @@ Welcome to my corner of the web. I created this space to serve as a digital sket
 
 Academic journey
 ------
-My journey began at KNTU—a place I still look back on with a lot of fondness for the friends and the vibrant atmosphere that shaped me academic journey. Recently, I reached a major milestone by completing my M.S. in Electrical and Computer Engineering. Now, I’m stepping into the next chapter: pursuing a Ph.D. It’s a path that feels equal parts daunting and exciting, but I’m looking forward to seeing where the research leads..
+My journey began at KNTU, a place I still look back on with a lot of fondness for the friends and the vibrant atmosphere that shaped me academic journey. Recently, I reached a major milestone by completing my M.S. in Electrical and Computer Engineering. Now, I’m stepping into the next chapter: pursuing a Ph.D. It’s a path that feels equal parts daunting and exciting, but I’m looking forward to seeing where the research leads..
 
 Diet and more
 ------
